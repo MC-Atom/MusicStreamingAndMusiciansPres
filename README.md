@@ -13,10 +13,10 @@ This is a gif of the rendered presentation. The actual presentation stops on key
 
 ### How to run
 
-`git clone https://github.com/MC-Atom/MusicStreamingAndMusiciansPres.git`
-`cd MusicStreamingAndMusiciansPres`
-`npm  install`
-`npm run serve`
+* `git clone https://github.com/MC-Atom/MusicStreamingAndMusiciansPres.git`
+* `cd MusicStreamingAndMusiciansPres`
+* `npm  install`
+* `npm run serve`
 
 This will run a localhost webpage of the Motion Canvas editor showing my code
 
