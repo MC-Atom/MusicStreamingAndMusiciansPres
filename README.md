@@ -9,7 +9,8 @@ This is a gif of the rendered presentation. The actual presentation stops on key
 ### Backstory
 * I had extra time before an English presentation. 
 * I was learning Motion Canvas anyway for other projects of mine. 
-* "If it's worth doing, it's worth over-doing." 
+* "If it's worth doing, it's worth over-doing."
+* It looks damn good
 
 ### How to run
 
