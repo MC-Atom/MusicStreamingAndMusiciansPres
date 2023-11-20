@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'plymouth';
+  src: local('Bangers'),
+    url(/assets/Fonts/Plymouth.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Bangers';
+    src: local('Bangers'),
+      url(/assets/Fonts/Bangers/Bangers-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'ChelseaMarket';
+    src: local('ChelseaMarket'),
+      url(/assets/Fonts/Chelsea_Market/ChelseaMarket-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Gugi';
+    src: local('Gugi'),
+      url(/assets/Fonts/Gugi/Gugi-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Pixolde';
+    src: local('Pixolde'),
+      url(/assets/Fonts/pixolde/Pixolde.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Pixolde-Bold';
+    src: local('Pixolde-Bold'),
+      url(/assets/Fonts/pixolde/Pixolde-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Pixolde-Italic';
+    src: local('Pixolde-Italic'),
+      url(/assets/Fonts/pixolde/Pixolde-Italic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Squarewave';
+    src: local('Squarewave'),
+      url(/assets/Fonts/squarewave/Squarewave.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Squarewave-Bold';
+    src: local('Squarewave-Bold'),
+      url(/assets/Fonts/squarewave/Squarewave-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Squarewave-Italic';
+    src: local('Squarewave-Italic'),
+      url(/assets/Fonts/squarewave/Squarewave-Italic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Tourney';
+    src: local('Tourney'),
+      url(/assets/Fonts/Tourney/Tourney-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Tourney-Italic';
+    src: local('Tourney-Italic'),
+      url(/assets/Fonts/Tourney/Tourney-Italic-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tourney-SemiBold';
+  src: local('Tourney-SemiBold'),
+    url(/assets/Fonts/Tourney/) format('truetype');
+}
+@font-face {
+  font-family: 'Tourney-Bold';
+  src: local('Tourney-Bold'),
+    url(/assets/Fonts/Tourney/Tourney-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tourney-ExtraBold';
+  src: local('Tourney-ExtraBold'),
+    url(/assets/Fonts/Tourney/Tourney-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'GrapeSoda';
+    src: local('GrapeSoda'),
+      url(/assets/Fonts/GrapeSoda.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'FallingSky';
+  src: local('FallingSky'),
+    url(/assets/Fonts/falling-sky-font/FallingSky-JKwK.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FallingSkyBlack';
+  src: local('FallingSkyBlack'),
+    url(/assets/Fonts/falling-sky-font/FallingSkyBlack-GYXA.otf) format('truetype');
+}
+@font-face {
+  font-family: 'FallingSkyBoldPlus';
+  src: local('FallingSkyBoldPlus'),
+    url(/assets/Fonts/falling-sky-font/FallingSkyBoldplus-6GZ1.otf) format('truetype');
+}
+@font-face {
+  font-family: 'Etiquette';
+  src: local('Etiquette'),
+    url(/assets/Fonts/etiquette.otf) format('truetype');
+}
+@font-face {
+  font-family: 'EnterE';
+  src: local('EnterE'),
+    url(/assets/Fonts/Enter2022-mLD5P.otf) format('truetype');
+}
+@font-face {
+  font-family: 'AAnotherTag';
+  src: local('AAnotherTag'),
+    url(/assets/Fonts/aAnotherTag.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'AttackGraffiti';
+  src: local('AttackGraffiti'),
+    url(/assets/Fonts/AttackGraffiti-3zRBM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'SedgwickAve';
+  src: local('SedgwickAve'),
+    url(assets/Fonts/Sedgwick_Ave/SedgwickAve-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Julee';
+  src: local('Julee'),
+    url(assets/Fonts/Julee/Julee-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Pangolin';
+  src: local('Pangolin'),
+    url(assets/Fonts/Pangolin/Pangolin-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'CaveatBrush';
+  src: local('CaveatBrush'),
+    url(assets/Fonts/Caveat_Brush/CaveatBrush-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Itim';
+  src: local('Itim'),
+    url(assets/Fonts/Itim/Itim-Regular.ttf) format('truetype');
+}
